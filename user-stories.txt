@@ -1,0 +1,22 @@
+The Minimum Viable Set of User Stories.
+
+- User changes email addresses
+- User changes physical addresses
+- User is or becomes homeless
+- User changes legal status
+- User changes legal name
+- User changes gender
+- User identifies themselves by a pseudonym
+- User is not always, and/or or not reliably, connected to the internet
+- User does not control the hardware they use to access the internet
+- User is trying to escape an abusive spouse or partner
+- User is trying to escape an abusive family
+- User is trying to escape a cult
+- User is estranged from their family
+- User is managing an addiction
+- User is managing a mental health issue
+- User is targeted for abuse by an individual
+- User is targeted for abuse by an informally organized group
+- User is targeted for abuse by a corporation
+- User is targeted for abuse by a nation-state
+- User is a member of a group or demographic targeted for abuse by an informally organized group
