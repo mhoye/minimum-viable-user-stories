@@ -20,8 +20,5 @@ A Minimum Viable Set of Vulnerable User Stories.
 - User is or becomes estranged from their family
 - User is managing an addiction
 - User is managing a mental health issue
-- User is targeted for abuse by an individual
-- User is targeted for abuse by an informally organized group
-- User is targeted for abuse by a corporation
-- User is targeted for abuse by a nation-state
-- User is a member of a group or demographic targeted for abuse by an informally organized group
+- User is specifically targeted for abuse by an individual, informally organized group, corporation or state actor.
+- User is a member of a group or demographic targeted for abuse by an individual, informally organized group, corporation or state actor.
