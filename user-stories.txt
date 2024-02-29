@@ -1,4 +1,4 @@
-The Minimum Viable Set of User Stories.
+A Minimum Viable Set of Vulnerable User Stories.
 
 - User changes email addresses
 - User changes physical addresses
