@@ -11,6 +11,7 @@ A Minimum Viable Set of Vulnerable User Stories.
 - User is not always connected to the internet
 - User cannot reliably connected to the internet
 - User does not control the hardware they use to access the internet
+- User changes or loses access to their phone number
 - User does not own a phone
 - User has lost their phone
 - User is trying to escape an abusive spouse or partner
