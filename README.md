@@ -1,11 +1,14 @@
 # A Minimum Viable Set Of Vulnerable User Stories
 
-The here's a list of vulnerable user stories. My goal was to end
-with a checklist that developers can hold up next to their product
-and say yes or no or doesn't apply to the list of risks or challenges
-this person faces as they navigate a life with this software in it.
-This not meant to be comprehensive; all I want to do is set a bar,
-knowing what we know about social software in 2016. The very lowest
-bar you have to clear to consider yourself responsible developer.
+This is a list of vulnerable user stories. The goal of this exercise is 
+to provide developers with a way to reason about the risks or challenges a
+user may face as they navigate a difficult life that has your software in it.
 
-- Mike Hoye, 2016.
+This list not meant to be comprehensive; while I believe minimalism plays a part
+in keeping this list and the motivations behind it accessible, additions are 
+welcome. 
+
+I also believe that this is approximately the lowest possible bar you can set for
+yourself if you want to think of yourself a responsible developer. 
+
+- mhoye
